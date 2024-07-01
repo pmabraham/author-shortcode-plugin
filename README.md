@@ -24,13 +24,17 @@ Example 2:
 File Plugin Structure
 
 author-shortcode-plugin/
+
 ├── author-shortcode-plugin.php
+
 ├── settings.php
+
 ├── uninstall.php
+
 ├── block.js
+
 ├── readme.txt
-└── .gitignore
 
 Disclaimer:
 
-This plugin is free and "as is."  The author of this plugin does not guarantee it will work on every WordPress site and is not responsible for any maintenance of this plugin or any damages caused if this plugin does not work properly as the author gives no guarantees or warranties.
+This plugin is free and "as is."  The author of this plugin does not guarantee it will work on every WordPress site and is not responsible for any maintenance or any damages caused if this plugin does not work properly, as the author gives no guarantees or warranties.
