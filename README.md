@@ -8,10 +8,15 @@ Before developing this plugin, bloggers and content creators faced challenges di
 https://compassioncrossing.info/comprehensive-approaches-to-managing-hallucinations-in-dementia-patients/ is an example of how the author's information is displayed.
 
 This plugin has a settings page under the WordPress settings area with the following selections:
+
 -> Include Avatar => checkbox for yes or no
+
 -> Avatar Size => Applies if "Include Avatar" is checked and defaults to 32 pixels
+
 -> Open Link in New Tab => If checked, will open the author link in a new tab
+
 -> Remove Settings on Uninstall => Clean up the associated database table data when the plugin is uninstalled.
+
 
 Example usage within a post:
 
