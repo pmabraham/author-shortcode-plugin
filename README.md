@@ -37,4 +37,4 @@ author-shortcode-plugin/
 
 Disclaimer:
 
-This plugin is free and "as is."  The author of this plugin does not guarantee it will work on every WordPress site and is not responsible for any maintenance or any damages caused if this plugin does not work properly, as the author gives no guarantees or warranties.
+This plugin is free and "as is."  The author of this plugin does not guarantee it will work on every WordPress site and is not responsible for any maintenance or any damages caused if this plugin does not work correctly, as the author gives no guarantees or warranties.
